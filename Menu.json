@@ -1,0 +1,426 @@
+[
+	{
+		"id": "0301158571",
+		"name": "Breakfast",
+		"items": [
+			{
+        "id": "4909404382",
+				"name": "Avo-Egg Toast",
+				"ingredients": [
+					"2 rebanadas de pan",
+					"30 g de aguacate (aproximadamente 1/3 de una pieza pequeña)",
+					"Hojas de espinaca al gusto",
+					"Hojas de arúgula al gusto",
+					"2 huevos estrellados",
+					"Aceite en aerosol",
+					"1 porción de fruta"
+				],
+				"instructions": "Tuesta las dos rebanadas de pan. Unta el aguacate sobre las tostadas. Agrega las hojas de espinaca y arúgula. Cocina los huevos en un sartén antiadherente, sin añadir grasa. Coloca los huevos sobre las tostadas. Acompaña con una porción de fruta fresca."
+			},
+			{
+        "id": "1962864166",
+				"name": "Licuado con Tostada",
+				"ingredients": [
+					"1 taza de leche descremada",
+					"1 porción de fruta",
+					"2 cucharadas de avena",
+					"Vainilla",
+					"Sustituto de azúcar",
+					"1 pan tostado",
+					"60g de queso",
+					"30g de aguacate",
+					"Verdura"
+				],
+				"instructions": "Prepara el licuado y la tostada con sus respectivos ingredintes"
+			},
+			{
+        "id": "9168009225",
+				"name": "Huevo con verdura & fruta",
+				"ingredients": [
+					"2 huevos o 2 claras de huevo",
+					"Verdura al gusto (jitomate, cebolla, champiñones, pimientos, salsa de tomate, ejotes, nopales, etc.)",
+					"1 cucharadita de aceite o 1/4 de aguacate",
+					"2 rebanadas de pan o 2 paquetes de Salmas o 2 tortillas de maíz",
+					"1 porción de fruta al gusto"
+				],
+				"instructions": "Mezcla los ingredientes y acompaña con fruta y pan"
+			},
+			{
+        "id": "0895023016",
+				"name": "Sándwich clásico de pavo",
+				"ingredients": [
+					"2 rebanadas de pan",
+					"2 rebanadas de pechuga de pavo",
+					"60g de queso panela",
+					"1/4 de aguacate o 1 cucharada de mayonesa light",
+					"Verdura al gusto"
+				],
+				"instructions": "Preparar sándwich y tostar en comal sin aceite"
+			},
+			{
+        "id": "8221363067",
+				"name": "Avena caliente",
+				"ingredients": [
+					"1/2 taza de avena cocida",
+					"1 taza de leche descremada",
+					"Canela",
+					"Vainilla y sustituto de azúcar",
+					"1 porción de fruta",
+					"10 almendras",
+					"15g de chocolate sin azúcar",
+					"2 huevos"
+				],
+				"instructions": "Mezclar los ingredientes de la avena y acompañar con 2 huevos al gusto"
+			}
+		]
+	},
+	{
+		"id": "2482400755",
+		"name": "Snack AM",
+		"items": [
+			{
+        "id": "0752194807",
+				"name": "Fruta y Verdura",
+				"ingredients": 
+				[
+					"1 porción de fruta y verdura",
+					"10 almendras o 1 cucharada de cacahuate o almendra"
+				],
+				"instructions": ""
+			}
+		]
+	},
+	{
+		"id": "9997107218",
+		"name": "Meal",
+		"items": [
+			{
+        "id": "3816609416",
+				"name": "Pizza Pita",
+				"ingredients": 
+				[
+					"1.5 panes pita Libanius integral (anaranjado)",
+					"Puré de tomate casero",
+					"150 g de tu proteína favorita (pollo, queso Oaxaca, camarones, res, salmón, etc.)",
+					"Verduras al gusto (pimientos, cebolla, espinaca, champiñones, etc.)",
+					"Opcional: 6 aceitunas"
+				],
+				"instructions": "Calentar 1.5 pan pita Libanius integral (anarnajado), agrega puré de tomate casero (ver recetas básicas, el puré debe estar seco). Agregar 150g de tu proteína favorita (puedes combinar: queso oaxaca con pollo, camarones, res, salmón, etc. Sólo cuida que entre todas tus proteínas sean en total 90g) y tus verduras favoritas (pimientos, cebolla, espinaca, champiñón, etc.) Opcional: 6 aceitunas"
+			}
+		]
+	},
+	{
+		"id": "4782450039",
+		"name": "Meal",
+		"items": [
+			{
+        "id": "0592352820",
+				"name": "Tinga de pollo",
+				"ingredients": 
+				[
+					"1/2 cucharadita de aceite",
+					"Cebolla",
+					"1–2 jitomates",
+					"1 diente de ajo",
+					"Chipotle",
+					"Un chorrito de consomé natural de pollo desgrasado",
+					"100 g de pollo deshebrado",
+					"Sal",
+					"Pimienta",
+					"3 tortillas",
+					"1/4 taza de frijol machacado",
+					"Lechuga",
+					"Salsa",
+					"50 g de queso panela",
+					"1 cucharadita de crema o aguacate"
+				],
+				"instructions": "Sofreir con ½ cdita. de aceite: cebolla cortada en lunas. Licúa 1-2 jitomates, 1 diente de ajo, chipotle y un chorrito de consomé natural de pollo desgrasado. Agregar la mezcla de jitomate al sartén de la cebolla, agregar 100g de pollo deshebrado y la mezcla del jitomate, sal y pimienta al gusto. Cocinar a fuego bajo hasta que se evapore la mayoría del líquido. Servir sobre 3 tortillas hechas tostadas +1/4 taza de frijol machacado + lechuga y salsa+50g queso panela + 1 cucharadita de crema o aguacate. Si eliges esta opción, debes quitar de algún tiempo de comida ½ porción de fruta. Máximo 2 veces por semana."
+			}
+		]
+	},
+	{
+		"id": "1793974405",
+		"name": "Meal",
+		"items": [
+			{
+        "id": "7795448051",
+				"name": "Portobello relleno de queso y elote",
+				"ingredients": 
+				[
+					"1–2 hongos portobello",
+					"Sal",
+					"Pimienta",
+					"150 g de queso Oaxaca",
+					"1/2 taza de granos de elote",
+					"2 tortillas o 1/2 taza de arroz o pasta cocidos"
+				],
+				"instructions": "Limpiar (quitar los pelitos con una cuchara y limpiar la parte lisa con una Servitoalla húmeda) y asar 1-2 piezas de hongo portobello con una pizca de sal y pimienta, rellenar con 150g de queso oaxaca + ½ taza de granos de elote. Acompaña con 2 tortillas o 1/2T de arroz o pasta cocidos."
+			}
+		]
+	},
+	{
+		"id": "1011766650",
+		"name": "Meal",
+		"items": [
+			{
+        "id": "5591478721",
+				"name": "Hamburguesa con papas",
+				"ingredients": 
+				[
+					"120 g de carne magra cruda",
+					"1 cucharada de cilantro picado",
+					"1/4 de zanahoria rallada",
+					"1/4 de calabacita rallada",
+					"Sal",
+					"Ajo",
+					"Pimienta",
+					"Cebolla en polvo",
+					"50 g de queso Oaxaca o 1 rebanada de queso americano bajo en grasa",
+					"1 pan Thins",
+					"1 cucharadita de mayonesa",
+					"Mostaza",
+					"1 cucharadita de salsa cátsup sin azúcar",
+					"1 papa (150 g en crudo)"
+				],
+				"instructions": "Mezcla 120 g de carne magra cruda + 1 cucharada de cilantro picado + 1/4 de zanahoria + 1/4 de calabacita rallada + sal, ajo, pimienta y cebolla en polvo. Cocina la hamburguesa en un sartén sin grasa y agrega 50 g de queso Oaxaca o 1 rebanada de queso americano bajo en grasa; deja en el sartén hasta gratinar. Monta sobre 1 pan Thins, unta 1 cucharadita de mayonesa + mostaza y 1 cucharadita de salsa cátsup sin azúcar. Corta 1 papa (150 g en crudo) en rodajas delgadas o en tiras (tipo francesa) y hornéala o cocínala en la air fryer durante 15–20 minutos a 180 °C."
+			}
+		]
+	},
+	{
+		"id": "5289033526",
+		"name": "Meal",
+		"items": [
+			{
+        "id": "5236808924",
+				"name": "Yakimeshi mixto",
+				"ingredients": 
+				[
+					"1 cucharadita de aceite",
+					"Cebolla picada o cebollín",
+					"Calabacita",
+					"Zanahorias en cubos",
+					"Bits de brócoli o coliflor (opcional)",
+					"3/4 de taza de arroz cocido",
+					"1/2 huevo",
+					"150 g de carne de res y pollo asados",
+					"Soya baja en sodio"
+				],
+				"instructions": "En un sartén agrega 1 cucharadita de aceite y sofríe cebolla picada o cebollín, calabacita y zanahorias en cubos (opcional: agrega bits de brócoli o coliflor para dar más volumen). Añade 3/4 de taza de arroz cocido, forma un hueco en el centro y agrega 1/2 huevo; bate hasta incorporar todos los ingredientes. Sirve en un plato hondo y agrega 150 g de carne de res y pollo asados. Acompaña con soya baja en sodio. Opción para repetir como máximo 1 vez por semana o repetir sin usar soya."
+			}
+		]
+	},
+	{
+		"id": "7647087578",
+		"name": "Meal",
+		"items": [
+			{
+        "id": "2521013962",
+				"name": "Poke bowl arcoiris",
+				"ingredients": 
+				[
+					"3/4 de taza de arroz cocido",
+					"150 g de salmón o pechuga de pollo en cubos",
+					"Pepino",
+					"Zanahoria rallada",
+					"Betabel rallado",
+					"1/4 de aguacate",
+					"1 cucharada de yogurt griego",
+					"Chipotle",
+					"Gotas de limón",
+					"Sal",
+					"Pimienta",
+					"Soya baja en sodio"	
+				],
+				"instructions": "En un bowl pon como base 3/4 de taza de arroz cocido + 150 g de salmón o pechuga de pollo en cubos + pepino, zanahoria y betabel rallados. Agrega 1/4 de aguacate. Opcionalmente, prepara un aderezo con 1 cucharada de yogurt griego mezclado con chipotle, gotas de limón, sal y pimienta. Acompaña con soya baja en sodio (si eliges esta opción más de una vez por semana, omite la soya)."
+			}
+		]
+	},
+	{
+		"id": "1791200330",
+		"name": "Meal",
+		"items": [
+			{
+        "id": "5768090544",
+				"name": "Bowl ranchero",
+				"ingredients": 
+				[
+					"1/2 taza de frijoles de olla",
+					"90 g de bistec asado",
+					"60 g de queso panela asado",
+					"Nopales",
+					"Champiñones",
+					"Calabacitas asadas",
+					"1/4 de aguacate",
+					"2 tortillas de maíz o 1/2 taza de arroz cocido"
+				],
+				"instructions": "Coloca como base en un plato 1/2 taza de frijoles de olla. Encima agrega 90 g de bistec asado + 60 g de queso panela asado + nopales, champiñones y calabacitas asadas. Añade 1/4 de aguacate. Acompaña con 2 tortillas de maíz o 1/2 taza de arroz cocido."
+			}
+		]
+	},
+	{
+		"id": "0988060908",
+		"name": "Snack PM",
+		"items": [
+			{
+        "id": "5566763070",
+				"name": "Galletas",
+				"ingredients": [
+					"5 galletas Marias",
+					"10 almendras o 15g de chocolate o 30 g de aguacate"
+				],
+				"instructions": ""
+			}
+		]
+	},
+	{
+		"id": "6583800061",
+		"name": "Snack PM",
+		"items": [
+			{
+        "id": "5512904687",
+				"name": "",
+				"ingredients": [
+					"2 galletas de arroz",
+					"1 cucharada de crema de cacahuate o almendra o 10 almendras o 15g de chocolate o 30 g de aguacate"
+				],
+				"instructions": ""
+			}
+		]
+	},
+	{
+		"id": "3349994722",
+		"name": "Snack PM",
+		"items": [
+			{
+        "id": "3031941404",
+				"name": "Palomitas",
+				"ingredients": [
+					"2.5 tazas de palomitas",
+					"10 almendras o 15g de chocolate o 30 g de aguacate"
+				],
+				"instructions": ""
+			}
+		]
+	},
+	{
+		"id": "7709692043",
+		"name": "Snack PM",
+		"items": [
+			{
+        "id": "5159993325",
+				"name": "Pan Tostado",
+				"ingredients": [
+					"1 rebanada de pan tostado",
+					"10 almendras o 15g de chocolate o 30 g de aguacate"
+				],
+				"instructions": ""
+			}
+		]
+	},
+	{
+		"id": "9840172429",
+		"name": "Snack PM",
+		"items": [
+			{
+        "id": "4211916275",
+				"name": "",
+				"ingredients": [
+					"1 porción de fruta",
+					"10 almendras o 15g de chocolate o 30 g de aguacate"
+				],
+				"instructions": ""
+			}
+		]
+	},
+	{
+		"id": "8083995436",
+		"name": "Dinner",
+		"items": [
+			{
+                "id": "5181255849",
+				"name": "Quesadillas",
+				"ingredients": [
+					"2 tortillas de maíz o 4 tortillas de nopal",
+					"60 g de queso panela, queso oaxaca o requesón",
+					"Verdura al gusto (pico de gallo, nopales, rajas, champiñones, etc)"
+
+				],
+				"instructions": "Hacer las quesadillas y opcional acompañar con salsa"
+			}
+		]
+	},
+	{
+		"id": "5184816124",
+		"name": "Dinner",
+		"items": [
+			{
+                "id": "8334978927",
+				"name": "Cereal con leche",
+				"ingredients": [
+					"1 taza de cereal cheerios avena o corn flakes",
+					"1 taza de leche light",
+					"15 g de chocolate sin azúcar o 10 almendras",
+					"2 fresas rebanadas"
+				],
+				"instructions": "Servir el cereal"
+			}
+		]
+	},
+	{
+		"id": "0064585009",
+		"name": "Dinner",
+		"items": [
+			{
+                "id": "6946710876",
+				"name": "Fruta con yogurt",
+				"ingredients": [
+					"1 porción de fruta",
+					"1/2 taza de yogurt griego",
+					"10 almendras o i cucharada de crema de cacahuate o almendra",
+					"2 cucharadas de granola sin azúcar o 3 cucharadas de amaranto, quinoa o arroz inflado sin azúcar."
+				],
+				"instructions": ""
+			}
+		]
+	},
+	{
+		"id": "6934559355",
+		"name": "Dinner",
+		"items": [
+			{
+                "id": "4363508847",
+				"name": "Pan francés",
+				"ingredients": [
+					"1 huevo",
+					"1/4 de taza de leche",
+					"1 cucharadita de vainilla",
+					"canela",
+					"sustituto de azúcar",
+					"45g de pollo asado",
+					"Queso panela",
+					"1 huevo",
+					"Verduras"
+				],
+				"instructions": "1 huevo + 1/4 de taza de leche + 1 cucharadita de vainilla, canela y sustituto de azúcar. Sumergir 2 rebanadas de pan en la mezcla y dorar en sartén SIN GRASA. Topping: 1 cucharada de maple sin azúcar + 10 almendras o 1 cucharadita de crema de cacahuate o almendra sin azúcar añadida o 15 g de chocolate sin azúcar + 3 fresas rebanadas. Acompañar con 45 g de pollo asado o queso panela o 1 huevo y 1 clara y verduras."
+			}
+		]
+	},
+	{
+		"id": "8600319159",
+		"name": "Dinner",
+		"items": [
+			{
+                "id": "4029344670",
+				"name": "Tostadas de queso y aguacate",
+				"ingredients": [
+					"2 tortillas hechas tostadas",
+					"1/4 de aguacate machacado",
+					"60g de queso mozarella",
+					"pico de gallo"
+				],
+				"instructions": "Montar el guacamole el queso y el pico de gallo en las tostadas."
+			}
+		]
+	}
+]
+	
