@@ -8,6 +8,7 @@
 import SwiftUI
 
 struct ContentView: View {
+    let menu = Bundle.main.decode([MenuSection].self, from: "Menu.json")
     var body: some View {
         VStack {
             Image(systemName: "globe")
