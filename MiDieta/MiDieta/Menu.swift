@@ -19,6 +19,13 @@ struct MenuItem: Codable, Hashable, Identifiable {
     var ingredients: [String]
     var instructions: String
     
+    var mainImage: String {
+        name.replacingOccurrences(of: " ", with: "-").lowercased()
+    }
+    var thumbnailImage: String {
+        "\(mainImage)-thumb"
+    }
+    
     #if DEBUG
     static let example = MenuItem(id: UUID(), name: "Avo-Egg Toast", ingredients: [
         "2 rebanadas de pan",
